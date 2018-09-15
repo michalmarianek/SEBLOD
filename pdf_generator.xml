@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension type="plugin" group="cck_field_link" version="2.5" method="upgrade">
 	<name>plg_cck_field_link_pdf_generator</name>
-	<author>Octopoos</author>
-	<authorEmail>contact@seblod.com</authorEmail>
-	<authorUrl>https://www.seblod.com</authorUrl>
+	<author>iliil</author>
+	<authorEmail>info@iliil.com</authorEmail>
+	<authorUrl>https://iliil.com</authorUrl>
 	<copyright>Copyright (C) 2009 - 2018 SEBLOD. All Rights Reserved.</copyright>
 	<license>GNU General Public License version 2 or later.</license>
 	<creationDate>September 2018</creationDate>
