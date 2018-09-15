@@ -1,4 +1,4 @@
-# SEBLOD pdf generstor field link 
+# SEBLOD pdf generator field link 
 
 The plugin requires TCPDF library.
 
