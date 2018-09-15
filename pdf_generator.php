@@ -35,9 +35,9 @@ class plgCCK_Field_LinkPdf_Generator extends JCckPluginLink
 	// _link
 	protected static function _link( $link, &$field, &$config )
 	{
-		$field->link	=	'#'; /* TODO */
+		$field->link	=	'#'; 
 		//echo '<pre>';
-//https://stackoverflow.com/questions/38524320/download-pdf-file-from-ajax-response
+		//https://stackoverflow.com/questions/38524320/download-pdf-file-from-ajax-response
 		//https://gist.github.com/wemersonjanuario/45d302337b45d6aad866051f0473c646
 		$field->link_class = 'xhr_'.$field->name;
 		$js		=	'(function ($){
